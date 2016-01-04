@@ -1,0 +1,3 @@
+dasd.sdfsdf.sf.com	FAIL
+prowebject.com	403
+google.pl	301
